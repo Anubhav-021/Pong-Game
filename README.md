@@ -6,6 +6,9 @@ This is a Python implementation of the classic **Pong** game using the **Turtle*
 
 In this game, two paddles (left and right) move vertically to hit the ball back and forth. The ball bounces off the top and bottom walls, as well as the paddles. If a player misses the ball, the opponent scores a point. The game continues until one player decides to quit.
 
+## Video
+https://github.com/user-attachments/assets/d03e15b4-327d-4c21-bc63-ce6dcfcf8b0e
+
 ## Features
 
 - **Two-player gameplay**: One player controls the left paddle using "W" and "S", while the other controls the right paddle using the arrow keys (Up and Down).
@@ -34,4 +37,4 @@ In this game, two paddles (left and right) move vertically to hit the ball back 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/pong-game.git
+   git clone https://github.com/Anubhav-021/pong-game.git
